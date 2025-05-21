@@ -7,4 +7,7 @@ Ce projet montre la différence entre une variable statique (`static`) et une va
 - `nbInstances` : variable statique qui compte le nombre total d’objets créés.
 - `nbLocal` : variable propre à chaque objet.
 
+## Sortie
+
+(1, 4)
 
